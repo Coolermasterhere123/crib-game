@@ -1,0 +1,29 @@
+🃏 Extracting crib-game (Full Cribbage on port 3005)...
+
+✅ Created: package.json
+✅ Created: vercel.json
+✅ Created: next.config.js
+✅ Created: .env.example
+📁 Created: public/
+✅ Created: public/manifest.json
+✅ Created: public/icon-192.svg
+✅ Created: public/icon-512.svg
+📁 Created: src/app/
+✅ Created: src/app/layout.js
+✅ Created: src/app/page.js
+✅ Created: README.md
+
+🎉 All files extracted successfully!
+📦 Installing dependencies...
+
+
+added 25 packages, and audited 26 packages in 12s
+
+5 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+✅ Dependencies installed!
+
+📦 Creating crib-game.zip...
